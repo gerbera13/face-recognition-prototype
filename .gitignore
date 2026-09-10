@@ -1,0 +1,12 @@
+facebank_db.pkl
+enroll_*.jpg
+test-face.jpg
+screenshot_face_detected.jpg
+server.log
+*.log
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.DS_Store
+face-recognition-prototype
